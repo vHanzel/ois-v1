@@ -1,7 +1,14 @@
-public class Gravitacija {
+public class Gravitacija1 {
+
 
     public class main(String[] args) {
-          System.out.prinln("OIS je Zakon");
+         
 
     }
+   public void izpis(double visina; double pospesek) {
+        System.out.println(visina);
+        System.out.println(pospese);
+
+   }
+    
 }
